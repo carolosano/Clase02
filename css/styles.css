@@ -17,7 +17,9 @@ body {
 
 
 .encabezado{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    text-align: center;
 }
 
 .tituloventa{
@@ -36,6 +38,7 @@ body {
 
 .parrafouno{
     font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: aquamarine;
 }
 
 .parrafodos{
@@ -58,3 +61,14 @@ body {
     padding-bottom: 4px;
     padding-right: 4px;
 }
+
+img{
+    width: 100px;
+    border-top: 5px solid black;
+
+}
+
+.padre{
+    text-align: center;
+}
+
