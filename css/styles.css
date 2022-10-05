@@ -1,10 +1,10 @@
 
 body {
-    background-color: blueviolet;
+    background-color: rgb(252, 224, 243);
 }
 
 .parrafouno{
-    color: brown;
+    color: black;
 }
 
 .parrafodos{
@@ -12,5 +12,49 @@ body {
 }
 
 .encabezado{
-    color: aquamarine;
+    color: rgb(255, 82, 212);
+}
+
+
+.encabezado{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.tituloventa{
+    color: rgb(255, 97, 150);
+    
+}
+
+.tituloventa{
+    margin-top: 80px;
+    margin-right: 100px;
+}
+
+.tituloventa{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.parrafouno{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.parrafodos{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.lineauno{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.a{
+    margin-left: 10px;
+    margin-right: 1100px;
+    border-top: 2px solid plum;
+    border-bottom: 2px solid plum;
+    border-left: 2px solid plum;
+    border-right: 2px solid plum;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-right: 4px;
 }
